@@ -1,5 +1,6 @@
 <openerp>
     <data>
+<!-- # https://www.odoo.com/forum/help-1/question/create-custom-fields-and-set-alerts-on-it-97466 -->
     <record model="ir.cron" id="check_poduct_qty_with_threshold">
             <field name="name">Threshold</field>
             <field name="interval_number">1</field>
